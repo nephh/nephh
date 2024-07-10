@@ -20,7 +20,7 @@
 
 <br />
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nephh&repo=ez-json&show_owner=true&theme=dracula)](https://github.com/nephh/ez-json)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nephh&repo=ez-json-ts&show_owner=true&theme=dracula)](https://github.com/nephh/ez-json)
 
 </div>
 
